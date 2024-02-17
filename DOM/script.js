@@ -25,3 +25,19 @@
 
 // h2.innerText = h2.innerText + "from rkjangir";
 // console.dir(h2.innerText);
+
+
+let divs =document.querySelectorAll("div");
+// console.log(div)
+
+// div[0].innerText ="hii";
+
+let i=0;
+
+for(let div of divs ){
+
+    div.innerText =`rkjangir = ${i}`;
+    i++;
+    
+}
+
