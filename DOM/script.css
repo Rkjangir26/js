@@ -1,4 +1,33 @@
-h1 {
-    color:aqua;
+/* #box{
+    height: 250px;
+    width:200px;
+    background-color: aqua;
+}
+button{
+    height:15px;
+    width:20px;
 
+} */
+
+/* 
+.myClass{
+    font-size: 50px;
+    color: rgb(175, 14, 14);
+
+}
+
+.rk{
+    font: bold;
+    font-size: 80px;
+    color: blue;
+} */
+
+.black{
+    background-color: black;
+    color:antiquewhite
+}
+
+.white{
+    background-color: white;
+    color:black
 }
